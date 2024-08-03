@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # version: "3.9"
 
-=======
->>>>>>> 6dc3642661e56a1aad913bead48b7e333fc8f282
 name: anythingllm
 
 networks:
